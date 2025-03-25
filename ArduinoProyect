@@ -1,0 +1,8 @@
+Componentes Necesarios
+1.	Arduino Uno R3.
+2.	Módulo Bluetooth HC-05 o HC-06 (para comunicación con la app móvil).
+3.	Sensor de humedad del suelo (El FC-28 o el Hygrometer).
+4.	Bomba de agua pequeña (puede ser una bomba de 5V o 12V, dependiendo de tu configuración).	
+5.	Relé (para controlar la bomba de agua si es de 12V).
+6.	Fuente de alimentación externa (5 a 9V).
+7.	Cables y protoboard para conexiones.
